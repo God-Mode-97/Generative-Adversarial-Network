@@ -1,0 +1,2 @@
+# Generative-Adversarial-Network
+This project was carried out during my internship at IIIT-Allahabad for generating new videos using generative adversarial networks. I have used a convolutional 2D neural networks and or a DCGAN.
